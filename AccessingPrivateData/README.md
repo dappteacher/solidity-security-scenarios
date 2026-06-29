@@ -30,8 +30,8 @@ Two web pages demonstrate how to interact with the `PD_Accessing` smart contract
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dappteacher/your-repository-name.git
-   cd your-repository-name
+   git clone https://github.com/dappteacher/solidity-security-scenarios.git
+   cd solidity-security-scenarios
    ```
 
 2. Deploy the `PD_Accessing` smart contract to your local Ethereum node. Make sure to note the deployed contract address.
