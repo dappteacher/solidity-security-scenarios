@@ -50,9 +50,15 @@ Refer to the `CONTRIBUTING.md` file for guidelines.
 ## License
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
-## Contact
-For any questions or suggestions, please open an issue or reach out to us at dappteacher@gmail.com.
+---
 
+### Connect
+
+* GitHub: [https://github.com/dappteacher](https://github.com/dappteacher)
+* Gas Analyzer: [https://github.com/dappteacher/gas-analyzer](https://github.com/dappteacher/gas-analyzer)
+* LinkedIn: [https://linkedin.com/in/dappteacher](https://linkedin.com/in/dappteacher)
+
+---
 
 ### Explanation
 
